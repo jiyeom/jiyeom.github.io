@@ -1,5 +1,5 @@
 ---
-title: "Semantics for Specificity"
+title: "Semantics for Specific Indefinites"
 collection: publications
 category: manuscripts
 permalink: /publication/1999-06-30-semantics-for-specificity
