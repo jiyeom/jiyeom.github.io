@@ -1,5 +1,5 @@
 ---
-title: '"XP-(이)나"의 중의성'
+title: '<i>Yekan</i> and Focus'
 collection: publications
 category: manuscripts
 permalink: /publication/2016-09-30-yekan-and-focus
@@ -7,7 +7,7 @@ excerpt: "<i>Yekan</i> is typically used with a long-form negation, and the nega
 date: 2016-09-30
 venue: 'Language Research'
 # slidesurl: 'https://jiyeom.github.io/files/slides3.pdf'
-paperurl: 'https://jiyeom.github.io/files/YekanAndFocus.pdf'
+paperurl: 'https://jiyeom.github.io/files/YekanAndFocus2016.pdf'
 bibtexurl: 'https://jiyeom.github.io/files/yekanfocus.bib' 
 citation: 'Yeom, Jae-Il. 2016. <i>Yekan</i> and Focus. <i>Language Research</i> 52.3, 451--489.'
 ---
