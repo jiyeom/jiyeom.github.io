@@ -1,5 +1,5 @@
 ---
-title: "<i>Yekan</i> and Focus"
+title: '"XP-(이)나"의 중의성'
 collection: publications
 category: manuscripts
 permalink: /publication/2016-09-30-yekan-and-focus
