@@ -9,6 +9,6 @@ venue: 'Language and Information'
 # slidesurl: 'https://jiyeom.github.io/files/slides3.pdf'
 paperurl: 'https://jiyeom.github.io/files/국어에서의지금과상2012.pdf'
 bibtexurl: 'https://jiyeom.github.io/files/cikumaspectkorean.bib' 
-citation: "Yeom, Jae-Il. 2012. 국어에서의 '지금'과 상. <i>Language and Information</i> 16.2, 43--65.'
+citation: "Yeom, Jae-Il. 2012. 국어에서의 '지금'과 상. <i>Language and Information</i> 16.2, 43--65."
 ---
 <i>Cikum</i> 'now' can be used with various tense/aspect morphemes, and considering their uses, I try to define the meaning of <i>cikum</i>.

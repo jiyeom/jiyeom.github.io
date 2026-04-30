@@ -9,6 +9,6 @@ venue: 'Journal of Language Science'
 # slidesurl: 'https://jiyeom.github.io/files/slides3.pdf'
 paperurl: 'https://jiyeom.github.io/files/길래의의미와서법2012.pdf'
 bibtexurl: 'https://jiyeom.github.io/files/kilaymood.bib' 
-citation: "Yeom, Jae-Il. 2012. '-길래'의 의미와 서법. <i>Journal of Language Science</i> 19(1), 131--154.'
+citation: "Yeom, Jae-Il. 2012. '-길래'의 의미와 서법. <i>Journal of Language Science</i> 19(1), 131--154."
 ---
 In Korean, many connectives show restrictions on the moods of the matrix clause. This is one of the papers on that topic. See also the other papers. 
