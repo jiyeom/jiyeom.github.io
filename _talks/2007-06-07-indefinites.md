@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Two specificity markers <i>etten</i> ‘some’ and <i>han</i> ‘one’ in Korean and their implications"
 collection: talks
 type: "Talk"
 permalink: /talks/2007-06-07-indefinites
 venue: "Workshop on 'Funny Indefinites---Different Kinds of Specificity across Languages'"
-date: 2025-12-06
+date: 2007-06-07
 location: "ZAS, Berlin, Germany"
 ---
 
