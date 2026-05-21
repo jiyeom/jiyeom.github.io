@@ -2,9 +2,9 @@
 title: "Global Approach to Scalar Implicatures in Dynamic Semantics"
 collection: talks
 type: "Talk"
-permalink: /talks/2013-11-00-paclic-scalar-implicature
+permalink: /talks/2013-11-01-paclic-scalar-implicature
 venue: "The 27th PACLIC"
-date: 2013-11-00
+date: 2013-11-01
 location: "National Chengchi University, Taipei, Taiwan"
 ---
 
