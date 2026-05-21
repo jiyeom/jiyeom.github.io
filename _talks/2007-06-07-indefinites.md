@@ -1,5 +1,5 @@
 ---
-title: "Two specificity markers <i>etten</i> ‘some’ and <i>han</i> ‘one’ in Korean and their implications"
+title: "Two specificity markers <i>etten</i> some and <i>han</i> one in Korean and their implications"
 collection: talks
 type: "Talk"
 permalink: /talks/2007-06-07-indefinites
