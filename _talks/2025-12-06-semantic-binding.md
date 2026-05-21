@@ -8,4 +8,4 @@ date: 2025-12-06
 location: "University of Seoul"
 ---
 
-In pseudoclefts and wh-questions, we observe binding relations that cannot be explained in syntactic structures. I explained them by interpreting focused phrases and wh-phrases as denoting non-contextual meanings and defining the notion of semantic binding. [Slide](https://jiyeom.github.io/files/sb2513.pdf)
+[SLIDE](https://jiyeom.github.io/files/sb2513.pdf) In pseudoclefts and wh-questions, we observe binding relations that cannot be explained in syntactic structures. I explained them by interpreting focused phrases and wh-phrases as denoting non-contextual meanings and defining the notion of semantic binding. 
