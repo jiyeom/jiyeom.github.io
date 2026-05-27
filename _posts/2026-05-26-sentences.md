@@ -1,6 +1,6 @@
 ---
 title: '담화의 기본 단위는 문장이다'
-date: 2026-05-27
+date: 2026-05-26
 permalink: /posts/2026/05/sentences/
 tags:
   - 문장
